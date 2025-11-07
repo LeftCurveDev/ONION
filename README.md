@@ -1,4 +1,4 @@
-# ONION Private RPC — Tor-style Mixnet (Revised Full Spec)
+# ONION Private RPC — Tor-style Mixnet
 
 > **Purpose:** A privacy-first Solana RPC mixnet inspired by Tor — users can run **relay nodes** (full relays) or **light nodes** (egress relays), stake the native SPL token **$ONION**, and earn fees from RPC users who pay tiny per-transaction fees. This document is the canonical plan for building the protocol end-to-end: architecture, node designs, staking/tokenomics, smart contract sketches, reward distribution, privacy guarantees, security, deployment, and an implementation roadmap.
 
